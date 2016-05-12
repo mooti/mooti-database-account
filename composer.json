@@ -1,6 +1,8 @@
 {
     "name":"mooti/account-database",
-    "require": {},
+    "require": {
+        "robmorgan/phinx": "^0.5.3"
+    },
     "require-dev": {
         "phpunit/phpunit": "4.1.*"
     },
