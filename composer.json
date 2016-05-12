@@ -1,0 +1,10 @@
+{
+    "name":"mooti/account-database",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.1.*"
+    },
+    "autoload": {
+        "psr-4": {"Mooti\\Database\\Account\\": "src/"}
+    }
+}

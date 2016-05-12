@@ -1,0 +1,6 @@
+{
+    "name" : "mooti.database.account",
+    "scripts" : [
+        "/usr/bin/composer install"
+    ]
+}
