@@ -1,6 +1,7 @@
 {
     "name" : "mooti.database.account",
     "scripts" : [
-        "/usr/bin/composer install"
+        "/usr/bin/composer install",
+        "./vendor/bin/phinx migrate -e production"
     ]
 }
